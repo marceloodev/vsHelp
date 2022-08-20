@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
--- CONFIGURAÇÃO vsHelp > By: Vieira's Store
+-- vsHelp | By: Vieira's Store
 ------------------------------------------------------------------------------
 
 cfg.helpCommand = "help" -- Coloque o nome do comando para pedir ajuda (OBS: Sem barra "/")

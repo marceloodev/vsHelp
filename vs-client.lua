@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
--- COMANDO /HELP By: Vieira's Store
+-- vsHelp | By: Vieira's Store
 ------------------------------------------------------------------------------
 RegisterCommand(""..cfg.helpCommand.."", function() -- NÃO MEXA <3
     msg(""cfg.FirstMessage"") -- NÃO MEXA <3
