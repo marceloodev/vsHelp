@@ -8,6 +8,11 @@ developer "Vieira's Store"
 version "1.0"
 
 client_script {
-    "vs-config.lua",
+    "cfg/vs-config.lua",
     "vs-client.lua" 
+}
+
+server_script {
+    "cfg/vs-config.lua",
+    "vs-server.lua"
 }
