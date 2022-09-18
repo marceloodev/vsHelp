@@ -11,3 +11,8 @@ client_script {
     "cfg/vs-config.lua",
     "vs-client.lua" 
 }
+
+server_script {
+    "cfg/vs-config.lua",
+    "vs-server.lua"
+}
