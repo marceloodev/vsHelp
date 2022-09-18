@@ -12,5 +12,5 @@ cfg_Name = "[vsHelp]" -- Nome do script quando ele mandar a mensagem no chat, Ca
 cfg_FirstMessage = "Olá! Tudo bem?" -- Configuração da primeira mensagem.
 cfg_SecondMessage = "Percebi que voce precisa de ajuda, Correto?" -- Configuração da segunda mensagem.
 cfg_ThirdMessage = "Então para um melhor atendimento abra ticket no nosso discord!" -- Configuração da terceira mensagem.
-cfg_FourthMessage = "Não tem discord? Baixe-o em: https://discord.com" -- Configuração da quarta mensagem.
-cfg_FifthMessage = "E entre em nosso servidor de discord utilizando o link de convite: https://discord.gg/gJyMqQb8Nh" -- Configuração da quinta mensagem.
+cfg_FourthMessage = "Não tem discord? Baixe-o em: https://discord.com!" -- Configuração da quarta mensagem.
+cfg_FifthMessage = "E entre em nosso servidor de discord utilizando o link de convite: https://discord.gg/gJyMqQb8Nh." -- Configuração da quinta mensagem.
