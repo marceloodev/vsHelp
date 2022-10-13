@@ -8,7 +8,7 @@
 
 # Script configuravel
 
-![image](https://user-images.githubusercontent.com/98975919/186281485-463842d7-a571-4f26-872e-744521e19b36.png)
+![image](https://user-images.githubusercontent.com/98975919/195478000-ab081116-8454-4560-8945-1c0d5f0f8060.png)
 
 # Preview
 
