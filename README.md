@@ -14,7 +14,7 @@
 
 > Version: Stable 🟢
 
-![image](https://user-images.githubusercontent.com/98975919/186281436-fe6ca2e4-a1bc-4370-ac8e-d1dc204d521a.png)
+![image](https://user-images.githubusercontent.com/98975919/195478171-1916e005-ea18-49e8-ade4-7b1be49842bf.png)
 
 # Suporte
 Você pode buscar suporte em nosso https://discord.gg/C5tXDsZhVJ. 🆘
