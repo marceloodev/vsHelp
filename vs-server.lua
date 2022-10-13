@@ -1,8 +1,4 @@
 ------------------------------------------------------------------------------
--- AGRADECIMENTO/AVISOS
+-- vsHelp | By: Vieira's Store
 ------------------------------------------------------------------------------
-local VSDevelopment = "Obrigado por baixar nosso script!"
-
-if VSDevelopment == "Obrigado por baixar nosso script!" then
-	print("^2[vsHelp] Obrigado por utilizar nosso script! Futuros updates em -> https://discord.gg/gJyMqQb8Nh!^0")
-end
+print("^2[vsHelp] Obrigado por utilizar nosso script! Futuros updates em -> https://github.com/VieirasStore/vsHelp!^0")

@@ -4,8 +4,8 @@
 fx_version 'bodacious'
 game 'gta5'
 
-developer "Vieira's Store"
-version "1.0"
+author "Vieira's Store"
+version "1.1" -- Adicionado melhor sistema de configuração.
 
 client_script {
     "cfg/vs-config.lua",
