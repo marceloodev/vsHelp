@@ -8,13 +8,13 @@
 
 # Script configuravel
 
-![image](https://user-images.githubusercontent.com/98975919/186281485-463842d7-a571-4f26-872e-744521e19b36.png)
+![image](https://user-images.githubusercontent.com/98975919/195478035-54d355f7-4d74-48a7-ae6e-74d1e0d2b35d.png)
 
 # Preview
 
 > Version: Stable 🟢
 
-![image](https://user-images.githubusercontent.com/98975919/186281436-fe6ca2e4-a1bc-4370-ac8e-d1dc204d521a.png)
+![image](https://user-images.githubusercontent.com/98975919/195478171-1916e005-ea18-49e8-ade4-7b1be49842bf.png)
 
 # Suporte
 Você pode buscar suporte em nosso https://discord.gg/C5tXDsZhVJ. 🆘
