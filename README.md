@@ -6,15 +6,15 @@
 
 > Developed by: Vieira's Store
 
-# Script configuravel
+# Sistema de configuração
 
-![image](https://user-images.githubusercontent.com/98975919/195478035-54d355f7-4d74-48a7-ae6e-74d1e0d2b35d.png)
+![image](https://user-images.githubusercontent.com/98975919/227668462-64370f90-7b3d-42a3-8784-21184178b362.png)
 
 # Preview
 
 > Version: Stable 🟢
 
-![image](https://user-images.githubusercontent.com/98975919/195478171-1916e005-ea18-49e8-ade4-7b1be49842bf.png)
+![image](https://user-images.githubusercontent.com/98975919/227668406-2f6bf861-58a1-4622-83fa-83ed621e3f88.png)
 
 # Suporte
 Você pode buscar suporte em nosso discord: https://discord.gg/C5tXDsZhVJ. 🆘
