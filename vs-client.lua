@@ -54,5 +54,5 @@ RegisterCommand(""..HelpCommand.."",function(source,args,rawCommand)
 end,false)
 
 function msg(text)
-    TriggerEvent("chatMessage", ""..Name.."", {Red,Green,Blue}, text) -- Olá! Tudo bem? Se voce está aqui provavelmente é por que voce quer mudar a cor do script quando ele enviar uma mensagem. Nesta linha procure por {0,0,255} Quando voce encontrar isto é ai que muda a cor... Para mudar voce precisará substituir este numero com as cores numerais deste site: https://www.peko-step.com/pt/tool/tfcolor.html
+    TriggerEvent("chatMessage", ""..Name.."", {Red,Green,Blue}, text) -- Oi! Não é mais aqui que voce troca a cor! No arquivo config do script, Mude a cor por lá.
 end
